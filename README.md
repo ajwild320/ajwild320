@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [Project Ultramarine](https://github.com/ajwild320/Project-Ultramarine)
 
-- 🌱 I’m currently learning **Express.js, MongoDB Atlas**
+- 🌱 I’m currently learning **React.JS, Vue.JS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ajwild320?tab=repositories](https://github.com/ajwild320?tab=repositories)
 
-- 💬 Ask me about **Flask, MongoDb, SQL**
+- 💬 Ask me about **Flask, MongoDb, SQL, Node.JS, Express.JS**
 
 - 📫 How to reach me **https://www.linkedin.com/in/austin-wild-8b3972135**
 
