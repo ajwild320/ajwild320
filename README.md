@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm AJ</h1>
-<h3 align="center">An aspiring software engineer from North Carolina</h3>
+<h3 align="center">A new software engineering graduate from North Carolina</h3>
 
 - 🔭 I’m currently working on developing a Banking App with a Finance Management Dashboard using Next.js and Tailwind CSS.
 
