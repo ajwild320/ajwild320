@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm AJ</h1>
 <h3 align="center">An aspiring software engineer from North Carolina</h3>
 
-- 🔭 I’m currently working on [Project Ultramarine](https://github.com/ajwild320/Project-Ultramarine)
+- 🔭 I’m currently working on [developing a Banking App with a Finance Management Dashboard using Next.js and Tailwind CSS.](https://github.com/ajwild320/Project-Ultramarine)
 
 - 🌱 I’m currently learning **React.JS, Vue.JS**
 
