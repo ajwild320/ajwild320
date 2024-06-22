@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm AJ</h1>
 <h3 align="center">An aspiring software engineer from North Carolina</h3>
 
-- 🔭 I’m currently working on [developing a Banking App with a Finance Management Dashboard using Next.js and Tailwind CSS.](https://github.com/ajwild320/Project-Ultramarine)
+- 🔭 I’m currently working on developing a Banking App with a Finance Management Dashboard using Next.js and Tailwind CSS.
 
-- 🌱 I’m currently learning **React.JS, Vue.JS**
+- 🌱 I’m currently learning **Next.JS, Tailwind.CSS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ajwild320?tab=repositories](https://github.com/ajwild320?tab=repositories)
 
-- 💬 Ask me about **Flask, MongoDb, SQL, Node.JS, Express.JS**
+- 💬 Ask me about **Flask, MongoDb, SQL, Node.JS, Express.JS, Next.JS**
 
 - 📫 How to reach me **https://www.linkedin.com/in/austin-wild-8b3972135**
 
-- ⚡ Fun fact **The more I use JavaScript, the more I learn to love it!**
+- ⚡ Fun fact **The more I use JavaScript (and it's many variants/frameworks), the more I learn to love it!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
