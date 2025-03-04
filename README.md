@@ -4,8 +4,8 @@
 ---
 
 ### 🌟 About Me
-- 🔨 **Currently Working On:** Developing a **Full Stack** MERN **AI** Image Generation App and my **AWS Certified Developer Associate** Certification!
-- 🌱 **Currently Learning:** **Amazon AWS Cloud Services** and **AI integration into web applications**.
+- 🔨 **Currently Working On:** Developing a **Full Stack** Google Drive Clone and my **AWS Certified Developer Associate** Certification!
+- 🌱 **Currently Learning:** **Amazon AWS Cloud Services** and **AI integration into modern web applications**.
 - 💻 **My Projects:** Available on [**My GitHub Repositories**](https://github.com/ajwild320?tab=repositories).  
 - 💬 **Ask Me About:**  
   - 🌬️ **Tailwind CSS**  
